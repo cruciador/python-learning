@@ -1,9 +1,9 @@
 ## 1. del keyword
    ```del``` keyword is used for deleting variable references and it would throw NameError when there is a call to a variable after it has been deleted.
-## 2. ## Python vs C/C++ Variables
+## 2. Python vs C/C++ Variables
 ![   ](./python_vs_c_c++.png)
 
-## 3.  Difference Between List and Tuple in Python
+## 3. Difference Between List and Tuple in Python
 
 Python provides two commonly used sequence types: **lists** and **tuples**. While both can store collections of items, they have important differences:
 
@@ -61,4 +61,6 @@ Python provides two commonly used sequence types: **lists** and **tuples**. Whil
 - Use **lists** when you need to modify, add, or remove items.
 - Use **tuples** when you need a fixed, unchangeable sequence or want to use the sequence as a dictionary key.
 
+## 4. Data Type Conversion Functions
 
+Read the topic in this link [Data Type Conversion Functions - tutorialspoint](https://www.tutorialspoint.com/python/python_type_casting.htm)
