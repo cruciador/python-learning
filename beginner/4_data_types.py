@@ -46,3 +46,6 @@ for i in range(1, 5, 2):
 b1 = bytes([65, 66, 67, 68, 69])  
 print(b1)
 
+words = ["Hello", "World", "Python"]
+result = ", ".join(words)
+print(result)
